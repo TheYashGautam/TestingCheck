@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Normal test suite">
+
+
+
+<test name ="OrangeHRM test1">
+  <classes>
+    <class name="com.yash.testcases.Testcases"></class>
+  </classes>
+</test>
+
+</suite>
