@@ -1,0 +1,47 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression test suite">
+
+
+
+
+
+
+
+
+<test name ="flipkart test1">
+  <classes>
+    <class name="com.yash.testcases.FirstTest"></class>
+  </classes>
+</test>
+
+<test name ="flipkart test2">
+   <classes>
+     <class name="com.yash.testcases.SecondTest"></class>
+   </classes>
+</test>
+
+<test name ="flipkart test3">
+   <classes>
+     <class name="com.yash.testcases.ThirdTest"></class>
+   </classes>
+</test>
+
+<test name ="flipkart test4">
+   <classes>
+     <class name="com.yash.testcases.FourthTest"></class>
+   </classes>
+</test>
+
+<test name ="flipkart test5">
+   <classes>
+     <class name="com.yash.testcases.MySkipTest"></class>
+   </classes>
+</test>
+
+
+
+
+
+
+
+</suite>
